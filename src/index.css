@@ -1,0 +1,13 @@
+@import "tailwindcss";
+*{
+    font-family: "poppins";
+}
+
+
+.bgg{
+    background-image:url(./assets/bg2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:30rem;
+    padding-top: 30px;
+}
